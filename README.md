@@ -9,7 +9,5 @@ Chess player<br>🐐🐐🐐🐐🐐status<br>2300 blitz by july trust!!!<br><br
 ![](https://streak-stats.demolab.com/?user=witliz&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=witliz&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=witliz&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
